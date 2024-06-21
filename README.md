@@ -4,7 +4,7 @@ Welcome to **Marvel Mania** - an Android Studio app that matches users with a Ma
 
 ## Introduction
 
-Marvel Mania is a unique and fun application designed for all Marvel fans. By analyzing your self-reported data through a series of questions, the app uses statistical and behavioral analysis to determine which Marvel superhero matches your personality and traits. Whether you're as noble as Captain America or as cunning as Black Widow, Marvel Mania will reveal your superhero alter ego.
+Marvel Mania is a unique and fun application designed for all Marvel fans. By analyzing your self-reported data through a series of questions, the app uses statistical and behavioral analysis to determine which Marvel superhero matches your personality and traits. Whether you're as hot-headed as the Hulk or as flexible as Spiderman, Marvel Mania will reveal your superhero alter ego.
 
 ## Features
 
