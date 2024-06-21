@@ -20,15 +20,6 @@ Marvel Mania is a unique and fun application designed for all Marvel fans. By an
 - **Java/Kotlin**: Programming languages used for developing the app.
 - **Statistical Analysis**: Algorithms and models to analyze user data.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact us:
-- **Email**: support@marvelmania.com
-
 ---
 
-Thank you for checking out Marvel Mania! We hope you enjoy discovering your Marvel superhero match as much as we enjoyed creating this app. Excelsior!
+Thank you for checking out Marvel Mania! We hope you enjoy discovering your Marvel superhero match as much as we enjoyed creating this app
